@@ -1,5 +1,5 @@
 {
-    "name": "yutaf/http_header",
+    "name": "yutaf/http-header",
     "license": "MIT",
     "description": "http header library",
     "require": {
